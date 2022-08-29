@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="gaji.exe" version="1.0.0.0" publicKeyToken="d4540984e1528d38" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="gaji" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="gaji.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="gaji.exe" size="20856">
+      <assemblyIdentity name="gaji" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>w0OD1mVto/SK8l3MwRW1qGwS+WU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=EGA\egago" issuerKeyHash="0a9e4f4d481a9b1f4f51eb557722fdf286d3eed7" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>2IpjyszNRHXZAjp8GwS1y55TTW8=</DigestValue></Reference></SignedInfo><SignatureValue>LTSVBS+jSpIO2Wt1m7fGgzKJgHdfwcWAKckbY32JtiBWTSCcuALRQSoGfuUmSEy6BysHYqtshDeidJDBF9JeU23dW4eWViPulTAU7OUxgVFRxS+Fq+cgzzb24Hbl3/8JaJCvFPCdgolf6p/rWvWUnwj4kT+KZ/r3HU4LjFtyTBM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uMZO6nRsSiqdxk2AiH6/mBLnL95L0xG3CGJ/Nv5va2jE8WBTBKZktdCV4DRVG9uTMsoAdRp1jqx+l2DhKXaVfFn+aAZyqFxMuf18OmpTTuZGKi+af7jRwkeDFRDgrT0EM2a7pOuNrd4t0P+YsepYhBveJTTERMsIxysxJElqo7k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6f4d539ecbb5041b7c3a02d97544cdccca638ad8" Description="" Url=""><as:assemblyIdentity name="gaji.exe" version="1.0.0.0" publicKeyToken="d4540984e1528d38" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=EGA\egago</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>AtoExoTuZGVBfj9YW2akavJsivM=</DigestValue></Reference></SignedInfo><SignatureValue>nlgIwg2eBB8ekqF85h3VYXBk0YW7OfRiR3zqBoWf763ldtRhpTZ1zQMWGWWkZ9ImmEipvpQr3ASbGsxJSs81XZkKon4IGLBLuQqycin1ZsRBntYHijEg003gB/3N6K5LoZG8+iZsobBgrmRqddoxIvmo7jor5IYudpmLqIq9JSM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uMZO6nRsSiqdxk2AiH6/mBLnL95L0xG3CGJ/Nv5va2jE8WBTBKZktdCV4DRVG9uTMsoAdRp1jqx+l2DhKXaVfFn+aAZyqFxMuf18OmpTTuZGKi+af7jRwkeDFRDgrT0EM2a7pOuNrd4t0P+YsepYhBveJTTERMsIxysxJElqo7k=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASagAwIBAgIQbEtYYDv9YalJhp3Cw8piHjANBgkqhkiG9w0BAQUFADAdMRswGQYDVQQDHhIARQBHAEEAXABlAGcAYQBnAG8wHhcNMjIwODI5MTYwMjM3WhcNMjMwODI5MjIwMjM3WjAdMRswGQYDVQQDHhIARQBHAEEAXABlAGcAYQBnAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALjGTup0bEoqncZNgIh+v5gS5y/eS9MRtwhifzb+b2toxPFgUwSmZLXQleA0VRvbkzLKAHUadY6sfpdg4Sl2lXxZ/mgGcqhcTLn9fDpqU07mRiovmn+40cJHgxUQ4K09BDNmu6Trja3eLdD/mLHqWIQb3iU0xETLCMcrMSRJaqO5AgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAM2AwBEX5kqY+kRF0JXT5V4awSY2EWGZNnlsk0HHO6EIM7uTO7gwC53b4Bp5b84eP1oy6thqbb9lfLCrK3haY0aF2thEEuNOjR2YyiHb9+wgu2SeHlzA89wpba8twYPcjqEOaEjAuCIsAYvN3dDi+rt+nHIlUJRVKr2T9OXD+PYY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

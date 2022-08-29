@@ -1,0 +1,35 @@
+C:\Users\RPL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\RPL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\RPL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\RPL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\RPL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\RPL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\RPL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\RPL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\RPL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\zzz\06_andri\latihanuh\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\zzz\06_andri\latihanuh\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\zzz\06_andri\latihanuh\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\zzz\06_andri\06_Andri Eka VB\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\zzz\06_andri\06_Andri Eka VB\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\zzz\06_andri\06_Andri Eka VB\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\zzz\06_andri\06_Andri Eka VB\segitiga\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\zzz\06_andri\06_Andri Eka VB\segitiga\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\zzz\06_andri\06_Andri Eka VB\segitiga\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\zzz\06_andri\06_Andri Eka VB\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\zzz\06_andri\06_Andri Eka VB\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\zzz\06_andri\06_Andri Eka VB\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\nabil\23_nabil\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\nabil\23_nabil\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\nabil\23_nabil\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Kelas 11\PBVB\23_nabil\segitiga\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Kelas 11\PBVB\23_nabil\segitiga\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Kelas 11\PBVB\23_nabil\segitiga\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Kelas 11\PBVB\23_nabil\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Kelas 11\PBVB\23_nabil\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Kelas 11\PBVB\23_nabil\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+D:\Kelas 11\PBVB\23_nabil\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+D:\Kelas 11\PBVB\23_nabil\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Kelas 11\PBVB\23_nabil\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Kelas 11\PBVB\23_nabil\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Kelas 11\PBVB\23_nabil\segitiga\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.AssemblyReference.cache

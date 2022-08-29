@@ -1,0 +1,32 @@
+C:\Users\RPL\AppData\Local\Temporary Projects\suhu\bin\Debug\suhu.exe
+C:\Users\RPL\AppData\Local\Temporary Projects\suhu\bin\Debug\suhu.pdb
+C:\Users\RPL\AppData\Local\Temporary Projects\suhu\bin\Debug\suhu.xml
+C:\Users\RPL\AppData\Local\Temporary Projects\suhu\obj\x86\Debug\suhu.Form1.resources
+C:\Users\RPL\AppData\Local\Temporary Projects\suhu\obj\x86\Debug\suhu.Resources.resources
+C:\Users\RPL\AppData\Local\Temporary Projects\suhu\obj\x86\Debug\suhu.vbproj.GenerateResource.Cache
+C:\Users\RPL\AppData\Local\Temporary Projects\suhu\obj\x86\Debug\suhu.exe
+C:\Users\RPL\AppData\Local\Temporary Projects\suhu\obj\x86\Debug\suhu.xml
+C:\Users\RPL\AppData\Local\Temporary Projects\suhu\obj\x86\Debug\suhu.pdb
+E:\zzz\06_andri\latihanuh\suhu\suhu\obj\x86\Debug\suhu.exe
+E:\zzz\06_andri\latihanuh\suhu\suhu\obj\x86\Debug\suhu.xml
+E:\zzz\06_andri\latihanuh\suhu\suhu\obj\x86\Debug\suhu.pdb
+E:\zzz\06_andri\06_Andri Eka VB\suhu\suhu\obj\x86\Debug\suhu.exe
+E:\zzz\06_andri\06_Andri Eka VB\suhu\suhu\obj\x86\Debug\suhu.xml
+E:\zzz\06_andri\06_Andri Eka VB\suhu\suhu\obj\x86\Debug\suhu.pdb
+E:\zzz\06_andri\06_Andri Eka VB\suhu\suhu\bin\Debug\suhu.exe
+E:\zzz\06_andri\06_Andri Eka VB\suhu\suhu\bin\Debug\suhu.pdb
+E:\zzz\06_andri\06_Andri Eka VB\suhu\suhu\bin\Debug\suhu.xml
+E:\zzz\06_andri\06_Andri Eka VB\suhu\suhu\obj\x86\Debug\suhu.Form1.resources
+E:\zzz\06_andri\06_Andri Eka VB\suhu\suhu\obj\x86\Debug\suhu.Resources.resources
+E:\zzz\06_andri\06_Andri Eka VB\suhu\suhu\obj\x86\Debug\suhu.vbproj.GenerateResource.Cache
+D:\Kelas 11\PBVB\23_nabil\suhu\suhu\bin\Debug\suhu.exe
+D:\Kelas 11\PBVB\23_nabil\suhu\suhu\bin\Debug\suhu.pdb
+D:\Kelas 11\PBVB\23_nabil\suhu\suhu\bin\Debug\suhu.xml
+D:\Kelas 11\PBVB\23_nabil\suhu\suhu\obj\x86\Debug\suhu.vbproj.AssemblyReference.cache
+D:\Kelas 11\PBVB\23_nabil\suhu\suhu\obj\x86\Debug\suhu.Form1.resources
+D:\Kelas 11\PBVB\23_nabil\suhu\suhu\obj\x86\Debug\suhu.Resources.resources
+D:\Kelas 11\PBVB\23_nabil\suhu\suhu\obj\x86\Debug\suhu.vbproj.GenerateResource.cache
+D:\Kelas 11\PBVB\23_nabil\suhu\suhu\obj\x86\Debug\suhu.vbproj.CoreCompileInputs.cache
+D:\Kelas 11\PBVB\23_nabil\suhu\suhu\obj\x86\Debug\suhu.exe
+D:\Kelas 11\PBVB\23_nabil\suhu\suhu\obj\x86\Debug\suhu.xml
+D:\Kelas 11\PBVB\23_nabil\suhu\suhu\obj\x86\Debug\suhu.pdb

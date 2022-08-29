@@ -1,0 +1,32 @@
+C:\Users\RPL\AppData\Local\Temporary Projects\grade\bin\Debug\grade.exe
+C:\Users\RPL\AppData\Local\Temporary Projects\grade\bin\Debug\grade.pdb
+C:\Users\RPL\AppData\Local\Temporary Projects\grade\bin\Debug\grade.xml
+C:\Users\RPL\AppData\Local\Temporary Projects\grade\obj\x86\Debug\grade.Form1.resources
+C:\Users\RPL\AppData\Local\Temporary Projects\grade\obj\x86\Debug\grade.Resources.resources
+C:\Users\RPL\AppData\Local\Temporary Projects\grade\obj\x86\Debug\grade.vbproj.GenerateResource.Cache
+C:\Users\RPL\AppData\Local\Temporary Projects\grade\obj\x86\Debug\grade.exe
+C:\Users\RPL\AppData\Local\Temporary Projects\grade\obj\x86\Debug\grade.xml
+C:\Users\RPL\AppData\Local\Temporary Projects\grade\obj\x86\Debug\grade.pdb
+E:\zzz\06_andri\latihanuh\grade\grade\obj\x86\Debug\grade.exe
+E:\zzz\06_andri\latihanuh\grade\grade\obj\x86\Debug\grade.xml
+E:\zzz\06_andri\latihanuh\grade\grade\obj\x86\Debug\grade.pdb
+E:\zzz\06_andri\06_Andri Eka VB\grade\grade\obj\x86\Debug\grade.exe
+E:\zzz\06_andri\06_Andri Eka VB\grade\grade\obj\x86\Debug\grade.xml
+E:\zzz\06_andri\06_Andri Eka VB\grade\grade\obj\x86\Debug\grade.pdb
+E:\zzz\06_andri\06_Andri Eka VB\grade\grade\bin\Debug\grade.exe
+E:\zzz\06_andri\06_Andri Eka VB\grade\grade\bin\Debug\grade.pdb
+E:\zzz\06_andri\06_Andri Eka VB\grade\grade\bin\Debug\grade.xml
+E:\zzz\06_andri\06_Andri Eka VB\grade\grade\obj\x86\Debug\grade.Form1.resources
+E:\zzz\06_andri\06_Andri Eka VB\grade\grade\obj\x86\Debug\grade.Resources.resources
+E:\zzz\06_andri\06_Andri Eka VB\grade\grade\obj\x86\Debug\grade.vbproj.GenerateResource.Cache
+D:\Kelas 11\PBVB\23_nabil\grade\grade\bin\Debug\grade.exe
+D:\Kelas 11\PBVB\23_nabil\grade\grade\bin\Debug\grade.pdb
+D:\Kelas 11\PBVB\23_nabil\grade\grade\bin\Debug\grade.xml
+D:\Kelas 11\PBVB\23_nabil\grade\grade\obj\x86\Debug\grade.vbproj.AssemblyReference.cache
+D:\Kelas 11\PBVB\23_nabil\grade\grade\obj\x86\Debug\grade.Form1.resources
+D:\Kelas 11\PBVB\23_nabil\grade\grade\obj\x86\Debug\grade.Resources.resources
+D:\Kelas 11\PBVB\23_nabil\grade\grade\obj\x86\Debug\grade.vbproj.GenerateResource.cache
+D:\Kelas 11\PBVB\23_nabil\grade\grade\obj\x86\Debug\grade.vbproj.CoreCompileInputs.cache
+D:\Kelas 11\PBVB\23_nabil\grade\grade\obj\x86\Debug\grade.exe
+D:\Kelas 11\PBVB\23_nabil\grade\grade\obj\x86\Debug\grade.xml
+D:\Kelas 11\PBVB\23_nabil\grade\grade\obj\x86\Debug\grade.pdb

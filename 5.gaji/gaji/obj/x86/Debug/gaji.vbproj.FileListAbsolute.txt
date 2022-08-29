@@ -1,0 +1,42 @@
+C:\Users\RPL\AppData\Local\Temporary Projects\gaji\obj\x86\Debug\gaji.Form1.resources
+C:\Users\RPL\AppData\Local\Temporary Projects\gaji\obj\x86\Debug\gaji.Resources.resources
+C:\Users\RPL\AppData\Local\Temporary Projects\gaji\obj\x86\Debug\gaji.vbproj.GenerateResource.Cache
+C:\Users\RPL\AppData\Local\Temporary Projects\gaji\bin\Debug\gaji.exe
+C:\Users\RPL\AppData\Local\Temporary Projects\gaji\bin\Debug\gaji.pdb
+C:\Users\RPL\AppData\Local\Temporary Projects\gaji\bin\Debug\gaji.xml
+C:\Users\RPL\AppData\Local\Temporary Projects\gaji\obj\x86\Debug\gaji.exe
+C:\Users\RPL\AppData\Local\Temporary Projects\gaji\obj\x86\Debug\gaji.xml
+C:\Users\RPL\AppData\Local\Temporary Projects\gaji\obj\x86\Debug\gaji.pdb
+E:\zzz\06_andri\latihanuh\gaji\gaji\obj\x86\Debug\gaji.exe
+E:\zzz\06_andri\latihanuh\gaji\gaji\obj\x86\Debug\gaji.xml
+E:\zzz\06_andri\latihanuh\gaji\gaji\obj\x86\Debug\gaji.pdb
+E:\zzz\06_andri\latihanuh\gaji\gaji\bin\Debug\gaji.exe
+E:\zzz\06_andri\latihanuh\gaji\gaji\bin\Debug\gaji.pdb
+E:\zzz\06_andri\latihanuh\gaji\gaji\bin\Debug\gaji.xml
+E:\zzz\06_andri\latihanuh\gaji\gaji\obj\x86\Debug\gaji.Form1.resources
+E:\zzz\06_andri\latihanuh\gaji\gaji\obj\x86\Debug\gaji.Resources.resources
+E:\zzz\06_andri\latihanuh\gaji\gaji\obj\x86\Debug\gaji.vbproj.GenerateResource.Cache
+E:\zzz\06_andri\06_Andri Eka VB\gaji\gaji\obj\x86\Debug\gaji.exe
+E:\zzz\06_andri\06_Andri Eka VB\gaji\gaji\obj\x86\Debug\gaji.xml
+E:\zzz\06_andri\06_Andri Eka VB\gaji\gaji\obj\x86\Debug\gaji.pdb
+E:\zzz\06_andri\06_Andri Eka VB\gaji\gaji\obj\x86\Debug\gaji.Form1.resources
+E:\zzz\06_andri\06_Andri Eka VB\gaji\gaji\obj\x86\Debug\gaji.Resources.resources
+E:\zzz\06_andri\06_Andri Eka VB\gaji\gaji\obj\x86\Debug\gaji.vbproj.GenerateResource.Cache
+E:\zzz\06_andri\06_Andri Eka VB\gaji\gaji\bin\Debug\gaji.exe
+E:\zzz\06_andri\06_Andri Eka VB\gaji\gaji\bin\Debug\gaji.pdb
+E:\zzz\06_andri\06_Andri Eka VB\gaji\gaji\bin\Debug\gaji.xml
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\bin\Debug\gaji.exe
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\bin\Debug\gaji.pdb
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\bin\Debug\gaji.xml
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\obj\x86\Debug\gaji.Form1.resources
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\obj\x86\Debug\gaji.Resources.resources
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\obj\x86\Debug\gaji.vbproj.GenerateResource.cache
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\obj\x86\Debug\gaji.vbproj.CoreCompileInputs.cache
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\obj\x86\Debug\gaji.exe
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\obj\x86\Debug\gaji.xml
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\obj\x86\Debug\gaji.pdb
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\obj\x86\Debug\gaji.vbproj.AssemblyReference.cache
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\bin\Debug\gaji.exe.manifest
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\bin\Debug\gaji.application
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\obj\x86\Debug\gaji.exe.manifest
+D:\Kelas 11\PBVB\23_nabil\gaji\gaji\obj\x86\Debug\gaji.application
