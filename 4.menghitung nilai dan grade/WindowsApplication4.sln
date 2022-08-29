@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowsApplication4", "WindowsApplication4\WindowsApplication4.vbproj", "{2DE578C7-490F-4A08-834D-F8909BA79366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE578C7-490F-4A08-834D-F8909BA79366}.Debug|x86.ActiveCfg = Debug|x86
+		{2DE578C7-490F-4A08-834D-F8909BA79366}.Debug|x86.Build.0 = Debug|x86
+		{2DE578C7-490F-4A08-834D-F8909BA79366}.Release|x86.ActiveCfg = Release|x86
+		{2DE578C7-490F-4A08-834D-F8909BA79366}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

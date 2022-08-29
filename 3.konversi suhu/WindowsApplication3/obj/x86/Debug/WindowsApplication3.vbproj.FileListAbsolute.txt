@@ -1,0 +1,20 @@
+c:\users\tri aldy kurniawan\onedrive\dokumen\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\tri aldy kurniawan\onedrive\dokumen\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\tri aldy kurniawan\onedrive\dokumen\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\tri aldy kurniawan\onedrive\dokumen\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+c:\users\tri aldy kurniawan\onedrive\dokumen\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+c:\users\tri aldy kurniawan\onedrive\dokumen\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\tri aldy kurniawan\onedrive\dokumen\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+c:\users\tri aldy kurniawan\onedrive\dokumen\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+c:\users\tri aldy kurniawan\onedrive\dokumen\visual studio 2010\Projects\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+D:\vb\GURU KENTAL\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+D:\vb\GURU KENTAL\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+D:\vb\GURU KENTAL\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+D:\vb\GURU KENTAL\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Form1.resources
+D:\vb\GURU KENTAL\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+D:\vb\GURU KENTAL\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.cache
+D:\vb\GURU KENTAL\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.CoreCompileInputs.cache
+D:\vb\GURU KENTAL\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+D:\vb\GURU KENTAL\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+D:\vb\GURU KENTAL\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+D:\vb\GURU KENTAL\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.AssemblyReference.cache

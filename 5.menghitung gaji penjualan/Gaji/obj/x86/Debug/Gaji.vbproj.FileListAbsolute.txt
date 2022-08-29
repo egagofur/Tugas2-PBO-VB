@@ -1,0 +1,34 @@
+C:\Users\Asus_Com\AppData\Local\Temporary Projects\Gaji\bin\Debug\Gaji.exe
+C:\Users\Asus_Com\AppData\Local\Temporary Projects\Gaji\bin\Debug\Gaji.pdb
+C:\Users\Asus_Com\AppData\Local\Temporary Projects\Gaji\bin\Debug\Gaji.xml
+C:\Users\Asus_Com\AppData\Local\Temporary Projects\Gaji\obj\x86\Debug\Gaji.Form1.resources
+C:\Users\Asus_Com\AppData\Local\Temporary Projects\Gaji\obj\x86\Debug\Gaji.Resources.resources
+C:\Users\Asus_Com\AppData\Local\Temporary Projects\Gaji\obj\x86\Debug\Gaji.vbproj.GenerateResource.Cache
+C:\Users\Asus_Com\AppData\Local\Temporary Projects\Gaji\obj\x86\Debug\Gaji.exe
+C:\Users\Asus_Com\AppData\Local\Temporary Projects\Gaji\obj\x86\Debug\Gaji.xml
+C:\Users\Asus_Com\AppData\Local\Temporary Projects\Gaji\obj\x86\Debug\Gaji.pdb
+D:\vb_wahda\Gaji\Gaji\obj\x86\Debug\Gaji.exe
+D:\vb_wahda\Gaji\Gaji\obj\x86\Debug\Gaji.xml
+D:\vb_wahda\Gaji\Gaji\obj\x86\Debug\Gaji.pdb
+D:\34_Wahda Adella Putri Febriana\Gaji\Gaji\obj\x86\Debug\Gaji.exe
+D:\34_Wahda Adella Putri Febriana\Gaji\Gaji\obj\x86\Debug\Gaji.xml
+D:\34_Wahda Adella Putri Febriana\Gaji\Gaji\obj\x86\Debug\Gaji.pdb
+D:\34_Wahda Adella Putri Febriana\Gaji\Gaji\bin\Debug\Gaji.exe
+D:\34_Wahda Adella Putri Febriana\Gaji\Gaji\bin\Debug\Gaji.pdb
+D:\34_Wahda Adella Putri Febriana\Gaji\Gaji\bin\Debug\Gaji.xml
+D:\34_Wahda Adella Putri Febriana\Gaji\Gaji\obj\x86\Debug\Gaji.Form1.resources
+D:\34_Wahda Adella Putri Febriana\Gaji\Gaji\obj\x86\Debug\Gaji.Resources.resources
+D:\34_Wahda Adella Putri Febriana\Gaji\Gaji\obj\x86\Debug\Gaji.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\Gaji\Gaji\obj\x86\Debug\Gaji.exe
+C:\Users\ASUS\Downloads\Gaji\Gaji\obj\x86\Debug\Gaji.xml
+C:\Users\ASUS\Downloads\Gaji\Gaji\obj\x86\Debug\Gaji.pdb
+D:\vb\GURU KENTAL\WindowsApplication5\Gaji\bin\Debug\Gaji.exe
+D:\vb\GURU KENTAL\WindowsApplication5\Gaji\bin\Debug\Gaji.pdb
+D:\vb\GURU KENTAL\WindowsApplication5\Gaji\bin\Debug\Gaji.xml
+D:\vb\GURU KENTAL\WindowsApplication5\Gaji\obj\x86\Debug\Gaji.Form1.resources
+D:\vb\GURU KENTAL\WindowsApplication5\Gaji\obj\x86\Debug\Gaji.Resources.resources
+D:\vb\GURU KENTAL\WindowsApplication5\Gaji\obj\x86\Debug\Gaji.vbproj.GenerateResource.cache
+D:\vb\GURU KENTAL\WindowsApplication5\Gaji\obj\x86\Debug\Gaji.vbproj.CoreCompileInputs.cache
+D:\vb\GURU KENTAL\WindowsApplication5\Gaji\obj\x86\Debug\Gaji.exe
+D:\vb\GURU KENTAL\WindowsApplication5\Gaji\obj\x86\Debug\Gaji.xml
+D:\vb\GURU KENTAL\WindowsApplication5\Gaji\obj\x86\Debug\Gaji.pdb
